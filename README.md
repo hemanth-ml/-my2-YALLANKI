@@ -27,9 +27,9 @@ Sports are important for one's helath, by playing we can stay fit and healthy. T
 ---
 
 ### Famous quotes by Scientists ###
-> "The science of today is the technology of tomorrow." by *** Edward Teller ***
->> "Science is the systematic classification of experience." by *** George Henry Lewes *** 
->>> "Science is organized knowledge. Wisdom is organized life." by *** Immanuel Kant ***
+> "The science of today is the technology of tomorrow." by ***Edward Teller***
+>> "Science is the systematic classification of experience." by ***George Henry Lewes*** 
+>>> "Science is organized knowledge. Wisdom is organized life." by ***Immanuel Kant***
 
 ---
 
