@@ -18,11 +18,12 @@ Pondicherry is union teritory of india, located at the shores of bay of bengal, 
 ### Favorite sports: ###
 Sports are important for one's helath, by playing we can stay fit and healthy. There are different kinds of sports. I like playing games, mostly outdoor games. Here, I have listed my favourite sports below along with the advantages.
 
-|Name|Reason|Average hours|
-|Kabaddi|Gives muscle strength and helps in strategy|8|
-|Swimming|Helps for survival and body pains|14|
-|Cricket|Helps in team building and tatics building|15|
-|Volleyball|Helps in Strategy builing and teamwork|10|
+| Name | Reason | Average hours |
+| -- | -- | -- |
+| Kabaddi | Gives muscle strength and helps in strategy | 8 |
+| Swimming | Helps for survival and body pains| 14 |
+| Cricket | Helps in team building and tatics building| 15 |
+| Volleyball | Helps in Strategy builing and teamwork| 10 |
 
 ---
 
