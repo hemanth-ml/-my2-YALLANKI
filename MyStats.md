@@ -1,0 +1,3 @@
+# Yallanki Hemanth
+My self Yallanki Hemanth. I am from tirupathi, india i have come to usa to study my masters in Northwest missouri state university. Currently i am in second semester of my master. I love playing outdoor games such as cricket. and watching indian movies with high action scenes. Legend was my favourite movie, bala krishna acted as hero in it. I also love to cook food when im free.
+![This is my image added :] ()
