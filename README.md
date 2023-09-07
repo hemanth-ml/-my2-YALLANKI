@@ -7,5 +7,5 @@ Pondicherry is union teritory of india, located at the shores of bay of bengal, 
 *gongora biryani
 *Lassi
 *Gobi rice
-[Link for my stats]()
+[Link for my stats](https://github.com/hemanth-ml/my2-yallanki/blob/5f21c5386639c2667bef8e1f425b3f4fbe386bcb/MyStats.md)
 
